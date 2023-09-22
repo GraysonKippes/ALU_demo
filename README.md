@@ -1,2 +1,2 @@
-# ALU_demo
-Demo of an ALU in VHDL.
+# ALU Demo
+This is an ALU and accompanying demonstration designed in VHDL.
